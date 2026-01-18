@@ -1,0 +1,52 @@
+country,"TRIM(TRAILING '.' from country)"
+"United States","United States"
+Ireland,Ireland
+Canada,Canada
+Brazil,Brazil
+Australia,Australia
+Sweden,Sweden
+India,India
+Germany,Germany
+Singapore,Singapore
+Pakistan,Pakistan
+Denmark,Denmark
+Indonesia,Indonesia
+Finland,Finland
+Nigeria,Nigeria
+Russia,Russia
+"Hong Kong","Hong Kong"
+Israel,Israel
+"United Kingdom","United Kingdom"
+"United Arab Emirates","United Arab Emirates"
+France,France
+Chile,Chile
+China,China
+Seychelles,Seychelles
+Austria,Austria
+Hungary,Hungary
+Mexico,Mexico
+Netherlands,Netherlands
+Poland,Poland
+Argentina,Argentina
+Malaysia,Malaysia
+Italy,Italy
+Kenya,Kenya
+Japan,Japan
+Myanmar,Myanmar
+Romania,Romania
+Colombia,Colombia
+Turkey,Turkey
+Spain,Spain
+"New Zealand","New Zealand"
+Portugal,Portugal
+"South Korea","South Korea"
+Switzerland,Switzerland
+Norway,Norway
+Estonia,Estonia
+Thailand,Thailand
+Vietnam,Vietnam
+Bulgaria,Bulgaria
+Egypt,Egypt
+Luxembourg,Luxembourg
+Lithuania,Lithuania
+Senegal,Senegal
